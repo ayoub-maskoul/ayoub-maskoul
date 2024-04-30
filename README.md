@@ -26,10 +26,5 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-maskoul&theme=dark&hide_border=false"/>
 </div>
 
-<hr>
 
-# 📊 Visit My Portfolio:
-<p align="center"> 
- //<a href="https://ayoub-maskoul.github.io/" target="_blank">Portfolio</a>
-</p>
 
