@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 # 📊 Visit My Portfolio:
 <p align="center"> 
- <a href="https://ayoub-maskoul.github.io/" target="_blank">Portfolio</a>
+ //<a href="https://ayoub-maskoul.github.io/" target="_blank">Portfolio</a>
 </p>
 
